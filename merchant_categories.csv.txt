@@ -1,0 +1,31 @@
+merchant,category
+swiggy,Food
+zomato,Food
+amazon,Shopping
+flipkart,Shopping
+uber,Transport
+ola,Transport
+netflix,Entertainment
+spotify,Entertainment
+apollo,Health
+airtel,Bills
+jio,Bills
+tataplay,Entertainment
+SS Biryani,Food
+Dominos Pizza,Food
+Starbucks Coffee,Food
+Cafe Latte,Food
+Burger Restaurant,Food
+Tea Stall,Food
+Zudio Shopping,Shopping
+Ajio Clothing,Shopping
+Myntra Fashion,Shopping
+Netflix Subscription,
+Electricity,Bill
+Water,Bill
+Hotstar Subscription,Entertainment
+BookMyShow Movie,Entertainment
+Internet Broadband,Entertainment
+PVR Cinema Ticket,Entertainment
+Rapido Bike Ride,Transport
+Parking Fee,Transport
